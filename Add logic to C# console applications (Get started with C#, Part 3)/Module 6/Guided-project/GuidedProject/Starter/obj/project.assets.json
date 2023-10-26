@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucas\\Documents\\GitHub_Projects\\Microsoft-Learn-Csharp\\Add logic to C# console applications (Get started with C#, Part 3)\\Module 6\\Guided-project-branching-looping-CSharp-main\\GuidedProject\\Starter\\Starter.csproj",
+      "projectUniqueName": "C:\\Users\\lucas\\Documents\\GitHub_Projects\\Microsoft-Learn-Csharp\\Add logic to C# console applications (Get started with C#, Part 3)\\Module 6\\Guided-project\\GuidedProject\\Starter\\Starter.csproj",
       "projectName": "Starter",
-      "projectPath": "C:\\Users\\lucas\\Documents\\GitHub_Projects\\Microsoft-Learn-Csharp\\Add logic to C# console applications (Get started with C#, Part 3)\\Module 6\\Guided-project-branching-looping-CSharp-main\\GuidedProject\\Starter\\Starter.csproj",
+      "projectPath": "C:\\Users\\lucas\\Documents\\GitHub_Projects\\Microsoft-Learn-Csharp\\Add logic to C# console applications (Get started with C#, Part 3)\\Module 6\\Guided-project\\GuidedProject\\Starter\\Starter.csproj",
       "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucas\\Documents\\GitHub_Projects\\Microsoft-Learn-Csharp\\Add logic to C# console applications (Get started with C#, Part 3)\\Module 6\\Guided-project-branching-looping-CSharp-main\\GuidedProject\\Starter\\obj\\",
+      "outputPath": "C:\\Users\\lucas\\Documents\\GitHub_Projects\\Microsoft-Learn-Csharp\\Add logic to C# console applications (Get started with C#, Part 3)\\Module 6\\Guided-project\\GuidedProject\\Starter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",

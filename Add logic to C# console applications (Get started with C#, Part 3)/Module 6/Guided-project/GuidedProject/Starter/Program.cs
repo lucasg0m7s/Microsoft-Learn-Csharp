@@ -77,8 +77,6 @@ for (int i = 0; i < maxPets; i++)
 
 do
 {
-
-
     // display the top-level menu options
 
     Console.Clear();
@@ -111,7 +109,17 @@ do
     {
         case "1":
             // List all of our current pet information
-            Console.WriteLine("this app feature is coming soon - please check back to see progress.");
+            for(int i = 0; i < maxPets; i++)
+            {
+                if(ourAnimals[i, 0] != "ID #: ")
+                {
+                    Console.WriteLine();
+                    for(int j = 0; j < 6; j++)
+                    {
+                        Console.WriteLine(ourAnimals[i, j]);
+                    }
+                }
+            }
             Console.WriteLine("Press the Enter key to continue.");
             readResult = Console.ReadLine();
             break;
@@ -168,8 +176,4 @@ do
         default:
             break;
     }
-
-    // pause code execution
-    readResult = Console.ReadLine();
-
 } while (menuSelection != "exit");
