@@ -13,3 +13,17 @@ C:\Users\lucas\Documents\Cursos\Curso de c#\Microsoft\CsharpProjects\Expressions
 C:\Users\lucas\Documents\Cursos\Curso de c#\Microsoft\CsharpProjects\Expressions\obj\Debug\net7.0\Expressions.pdb
 C:\Users\lucas\Documents\Cursos\Curso de c#\Microsoft\CsharpProjects\Expressions\obj\Debug\net7.0\Expressions.genruntimeconfig.cache
 C:\Users\lucas\Documents\Cursos\Curso de c#\Microsoft\CsharpProjects\Expressions\obj\Debug\net7.0\ref\Expressions.dll
+C:\Users\lucas\Documents\GitHub_Projects\Microsoft-Learn-Csharp\Add logic to C# console applications (Get started with C#, Part 3)\Module 1\bin\Debug\net7.0\Expressions.exe
+C:\Users\lucas\Documents\GitHub_Projects\Microsoft-Learn-Csharp\Add logic to C# console applications (Get started with C#, Part 3)\Module 1\bin\Debug\net7.0\Expressions.deps.json
+C:\Users\lucas\Documents\GitHub_Projects\Microsoft-Learn-Csharp\Add logic to C# console applications (Get started with C#, Part 3)\Module 1\bin\Debug\net7.0\Expressions.runtimeconfig.json
+C:\Users\lucas\Documents\GitHub_Projects\Microsoft-Learn-Csharp\Add logic to C# console applications (Get started with C#, Part 3)\Module 1\bin\Debug\net7.0\Expressions.dll
+C:\Users\lucas\Documents\GitHub_Projects\Microsoft-Learn-Csharp\Add logic to C# console applications (Get started with C#, Part 3)\Module 1\bin\Debug\net7.0\Expressions.pdb
+C:\Users\lucas\Documents\GitHub_Projects\Microsoft-Learn-Csharp\Add logic to C# console applications (Get started with C#, Part 3)\Module 1\obj\Debug\net7.0\Expressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\GitHub_Projects\Microsoft-Learn-Csharp\Add logic to C# console applications (Get started with C#, Part 3)\Module 1\obj\Debug\net7.0\Expressions.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\GitHub_Projects\Microsoft-Learn-Csharp\Add logic to C# console applications (Get started with C#, Part 3)\Module 1\obj\Debug\net7.0\Expressions.AssemblyInfo.cs
+C:\Users\lucas\Documents\GitHub_Projects\Microsoft-Learn-Csharp\Add logic to C# console applications (Get started with C#, Part 3)\Module 1\obj\Debug\net7.0\Expressions.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\GitHub_Projects\Microsoft-Learn-Csharp\Add logic to C# console applications (Get started with C#, Part 3)\Module 1\obj\Debug\net7.0\Expressions.dll
+C:\Users\lucas\Documents\GitHub_Projects\Microsoft-Learn-Csharp\Add logic to C# console applications (Get started with C#, Part 3)\Module 1\obj\Debug\net7.0\refint\Expressions.dll
+C:\Users\lucas\Documents\GitHub_Projects\Microsoft-Learn-Csharp\Add logic to C# console applications (Get started with C#, Part 3)\Module 1\obj\Debug\net7.0\Expressions.pdb
+C:\Users\lucas\Documents\GitHub_Projects\Microsoft-Learn-Csharp\Add logic to C# console applications (Get started with C#, Part 3)\Module 1\obj\Debug\net7.0\Expressions.genruntimeconfig.cache
+C:\Users\lucas\Documents\GitHub_Projects\Microsoft-Learn-Csharp\Add logic to C# console applications (Get started with C#, Part 3)\Module 1\obj\Debug\net7.0\ref\Expressions.dll
